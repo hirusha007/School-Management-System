@@ -1,0 +1,40 @@
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Form1.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Main.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Student.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Subject.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Section.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Enrollment.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.attendance.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Report.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\bin\Debug\stdole.dll
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.CrystalReport.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School M.9425A2E0.Up2Date
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.print.resources
+C:\Users\MyPlusComputers\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.ReportViewer.resources
